@@ -13,6 +13,8 @@ a parts list at any size.
 I wanted to name the project after the robot antagonist in "A Grand
 Day Out" but I discovered it was unnamed.   So I made up a name.
 
+![Cabinet side view, with open drawer](images/painted_open.JPG)
+
 # How to make your cabinet
 
 Enter your sizes into the SCAD file, and render the drawing.
